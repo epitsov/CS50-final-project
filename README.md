@@ -17,3 +17,5 @@
 #### The last problem that i need to solve was that i wanted to adress all my customers with their last names and i could not use the same greeting for my female and male guests. To solve this issue i added the gender to all my customers in the database and if i did not know what gender they were i simply wrote 'na'. After adding the new information to my database i was able to access the customer gender and the decide which greeting should i use based on their gender.
 ####
 #### I am happy with my final project not only because I did it and with it i finished my CS50 course, but also because I will be able to use it the future to make my work easier.
+#### 
+#### Here is a short video of how it should work: https://youtu.be/m51JcTMRr80
