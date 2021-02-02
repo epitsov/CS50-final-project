@@ -2,12 +2,13 @@
 #### For my final project I have used python in order to create a graphical interface application that sends the same E- mail to all customers from a database.
 #### You need to give your e-mail without the greetings part (Dear Mr or Mrs), because the program automatically adds this to your text depending on the gender of the person.
 #### For example if the person is male it will start as: Dear Mr. Doe and if the person is female Dear Mrs. Doe.
-#### For my application i used the following libraries:tkinter for the graphical interface, ezgmail for sending the e-mails with my python application and
-#### sqlite3 to create and get the inforamtion from the database.
-#### For my project I primarily used the following sources https://automatetheboringstuff.com/2e/chapter18/, https://www.youtube.com/watch?v=YXPyB4XeYLA&t=2050s&ab_channel=freeCodeCamp.org,
+#### For my application i used the following libraries:tkinter for the graphical interface, ezgmail for sending the e-mails with my python application and sqlite3 to create and get the inforamtion from the database.
+#### For my project I primarily used the following sources: 
+#### https://automatetheboringstuff.com/2e/chapter18/
+#### https://www.youtube.com/watch?v=YXPyB4XeYLA&t=2050s&ab_channel=freeCodeCamp.org,
 #### https://www.youtube.com/watch?v=YXPyB4XeYLA&t=2050s&ab_channel=freeCodeCamp.org
 ####
-#### The reason that i did this project was that I needed to start a e-mail campain to promote the new web-site of my company and knew that there is a faster and easier way than sending the 
+#### The reason that i did this project was that I needed to start a E-mail campain to promote the new web-site of my company and knew that there is a faster and easier way than sending the 
 #### same E-mail to all of your customers. Doing this project i encounter the following problems:
 ####
 #### The first problem that i encounter with my project was how to connect and send e-mails from my python script, luckly i found a great chapter about this in the book Automate the boring stuff.
